@@ -2,6 +2,11 @@
 	"auto-scroll": 5000,
 	"items": [
 		{
+			"url": "https://events.coindesk.com/consensus2022",
+			"pic": "https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1638310086/uwsrlfbmws0ipb0zhiin.png",
+			"meta": {}
+		},
+		{
 			"url": "https://www.coindesk.com/markets/2021/12/15/bitcoins-decline-suggests-feds-hawkish-policy-shift-is-priced-in/",
 			"pic": "https://images.unsplash.com/photo-1576520804567-b88e5dade12d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nnw0NjIwNDM5fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 			"meta": {}
@@ -19,11 +24,6 @@
 		{
 			"url": "https://www.coindesk.com/policy/2021/12/13/binance-singapore-drops-crypto-license-plans-in-city-state/",
 			"pic": "https://images.unsplash.com/photo-1624438253998-7bb8eca8a3f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmluYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-			"meta": {}
-		},
-		{
-			"url": "https://events.coindesk.com/consensus2022",
-			"pic": "https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1638310086/uwsrlfbmws0ipb0zhiin.png",
 			"meta": {}
 		}
 	]
